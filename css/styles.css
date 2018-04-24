@@ -1,0 +1,26 @@
+/*helper classes*/
+.pull-right{
+  float: right;
+}
+.pull-left{
+  float:left;
+}
+.pad-10{
+  padding: 10px;
+}
+/*helper classes end*/
+
+/*begin nav*/
+.logo-box{
+  background-color: blue;
+  border: 3px solid black;
+  color:black;
+  height:60px;
+  width: 120px;
+}
+li{
+  background-color: green;
+}
+a{
+  color: black;
+}
